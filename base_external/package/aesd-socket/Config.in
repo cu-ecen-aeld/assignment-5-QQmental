@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_SOCKET
+    bool "aesd-socket"
+    help
+      A simple socket server app for AESD
